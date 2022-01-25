@@ -1,7 +1,44 @@
 <!doctype html>
 <html lang="en">
+	<head>
+		<title>Time to go... somewhere!</title>
+		<meta charset="utf-8">
+	</head>
+	
 	<body>
 	<link rel="stylesheet" type="text/css" href="Basic_CSS_2.css">
 	
-	<p>Check out this stylish existence.  If you're interested in learning more, find the &phone; at the bottom of the page.</p>
+	<h3>If the Circumstances Are Right...<h3>
+	<p>Check out these lists.  If you're interested in learning more, find the &phone; at the bottom of the page.</p>
+	
+	<h3>Check Out Our Favorite Lists!</h3>
+	
+	<p>Going to the high country?  Don't forget these items:</p>
+	<ul>
+		<li>Jacket</li>
+		<li>Boots</li>
+		<li>Wool socks</li>
+		<li>Snow pants</li>
+		<li>Long sleeves</li>
+		<li>Long underwear</li>
+	</ul>
+	
+	<p>Taking your personal vehicle? Here's a maintenance check, listed in order of importance!</p>
+	<ol>
+		<li>Check engine oil.</li>
+		<li>Check engine coolant.</li>
+		<li>Check tires.</li>
+		<ul>
+			<li>Pressure</li>
+			<li>Tread</li>
+			<li>Lug nuts</li>
+		</ul>
+		<li>Check brake fluid.</li>
+		<li>Check power steering fluid.</li>
+		<li>Check transmission fluid.</li>
+	</ol>
+	
 	</body>
+	
+<footer>&phone; <b><i>You found it!</b></i></footer>
+</html>
