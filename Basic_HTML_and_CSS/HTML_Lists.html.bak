@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+	<body>
+	<ul>
+		<li>Apples</li>
+		<li>Tomatos</li>
+		<li>Grapes</li>
+		<li>Mozzarella</li>
+		<li>Olives</li>
+		<li>Parsley</li>
+	</ul>
+	
+	<ol>
+		<li>Nose</li>
+		<li>Ears</li>
+		<li>Arms</li>
+		<li>Legs</li>
+		<li>Hands</li>
+		<li>Feet</li>
+	</ol>
+	</body>
+</html>

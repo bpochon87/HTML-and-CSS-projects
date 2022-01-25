@@ -1,0 +1,8 @@
+p	{
+		color: #556B2F;
+		text-align: center;
+	}
+blockquote {
+				color: #556B2F;
+				text-align: center;
+		    }
