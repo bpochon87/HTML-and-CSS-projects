@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+		<head>
+			<title>Brother Brades Beans</title>
+			<meta charset="utf-8">
+		</head>
+	<body>
+
+	<h2>Poems</h2>
+	<section>
+		<h3>Some thing</h3>
+	<p>To be in such a wonderful position,<br>
+	I have to question.<br>
+	Is this existence something real?<br>
+	Or am I just a transient ghost?<br>
+	Crossing the ever expanding universe,<br>
+	the cold, dark streams of the mind.<br>
+	Something seems real here...<br>
+	Some things, they seem real.</p>
+	</section>
+  
+	<section>
+		<h3>Must I Know?</h3>
+	<p>Apparently there are more efficient ways to speak.<br>
+	Must I know?<br>
+	Evidently there is more money to be made.<br>
+	Must I know?<br>
+	Seemingly the universe can be contradicted.<br>
+	Must I know?<br>
+	Apparently I really don't know shit.<br>
+	<span style="color: maroon;font-weight:bold">This, I must know.</span>
+	</p>
+	</section>
+ 
+	</body>
+	<footer>
+		&copy; Brady&nbsp; Pochon 2022<br>
+		For more, visit <a href="http://www.dailyzen.com/" target="new">Daily Zen<a/>
+	</footer>
+ 
+</html>
