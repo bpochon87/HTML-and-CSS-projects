@@ -134,7 +134,7 @@
 					<!-- PHOTO CONTAINER 9 -->
 					<div>
 						<div>
-							<img src="./images/thumb/thumbnail_9.jpg" alt="Suerte ready to wash paws isn't showing.">
+							<img src="./images/thumb/thumbnail_9.jpg" alt="Suerte ready to wash paws isn't showing." width="400" height="534">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p>He's not about to let you get sick. Trust Suerte's medical advice found within his award-winning paw-washing sessions.</p>
@@ -162,6 +162,7 @@
 						</p>
 						<div>
 							<form action="" method="post">
+								<label for="first_name">First Name:</label><br>
 								<input class="rsvp" type="text" value="First Name">
 								<input class="rsvp" type="text" value="Last Name">
 								<input class="rsvp" type="text" value="E-mail Address">
