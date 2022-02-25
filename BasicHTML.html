@@ -1,15 +1,37 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8">
-		<meta name="Author" content="Brady">
-		<title>Basic HTML</title>
+		<meta charset="UTF-8">
+		<title>Challenges</title>
 	</head>
+
+	<style>
+		html
+		{
+			background-color: black;
+		}
+		
+		body
+		{
+			opacity: 1;
+			transition: 1s opacity;
+		}
+
+		body.fade-out
+		{
+			opacity: 0;
+			transition: none;
+		}
+	</style>
+
 	<body>
-		<header>
-			<h4>Basic HTML Template</h4>
-		</header>
-		<p>Introduction to basic HTML syntax.</p>
-		<p>Added another paragraph.</p>
+		<script>
+			document.body.classList.add('fade-out');
+
+			window.addEventListener('DOMContentLoaded',() =>
+			{
+				document.body.classList.remove('fade-out');
+			});
+		</script>
 	</body>
 </html>
