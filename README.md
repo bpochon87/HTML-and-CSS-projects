@@ -4,8 +4,8 @@ This repo shows off HTML and CSS with two primary projects: one for my cat, Suer
 
 <h3>Projects</h3>
   <ul>
-    <li><a href="https://github.com/bpochon87/HTML-and-CSS-projects/tree/main/Website" target="_blank">Black Cat | The Resort<a></li>
-    <li><a href="http://https://github.com/bpochon87/HTML-and-CSS-projects/tree/main/bootstrap4_project target="_blank">Silver City Cinema<a></li>
+    <li><a href="https://github.com/bpochon87/HTML-and-CSS-projects/tree/main/Black%20Cat%20-%20The%20Resort">Black Cat | The Resort<a></li>
+    <li><a href="https://github.com/bpochon87/HTML-and-CSS-projects/tree/main/bootstrap4_project">Silver City Cinema<a></li>
   </ul>
   
   
