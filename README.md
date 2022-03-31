@@ -26,5 +26,5 @@ elements including the:
 </ul>
       
 <h2>Brady's Portfolio Website</h2>
-This is my personal website that I designed using HTML, CSS, and JavaScript.
+This is my personal website that I designed using HTML, CSS, and JavaScript.<br>
 See it in action! <a href="http://www.bradypochon.com" target="_blank">bradypochon.com</a>
