@@ -6,6 +6,7 @@ This repo shows off HTML and CSS with two primary projects: one for my cat, Suer
   <ul>
     <li><a href="https://github.com/bpochon87/HTML-and-CSS-projects/tree/main/Black%20Cat%20-%20The%20Resort">Black Cat | The Resort<a></li>
     <li><a href="https://github.com/bpochon87/HTML-and-CSS-projects/tree/main/bootstrap4_project">Silver City Cinema<a></li>
+    <li><a href="https://github.com/bpochon87/HTML-and-CSS-projects/tree/main/portfolio">Brady's Portfolio Website<a></li>
   </ul>
   
   
@@ -23,3 +24,7 @@ elements including the:
     <li>Cards, and</li>
     <li>Dropdowns.</li>
 </ul>
+      
+<h2>Brady's Portfolio Website</h2>
+This is my personal website that I designed using HTML, CSS, and JavaScript.
+See it in action! <a href="http://www.bradypochon.com" target="_blank">bradypochon.com</a>
